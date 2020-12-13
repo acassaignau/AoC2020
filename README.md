@@ -1,2 +1,2 @@
 # AoC2020
-adventofcode.com
+www.adventofcode.com
